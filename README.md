@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiksCoder
+- 👋 Hi, I’m Morten.
 - 👀 I’m interested in Microsoft technologies, specifically C#, .NET and SQL Server.
 - 🌱 I’m currently learning Data Science & AI-related technologies.
 
